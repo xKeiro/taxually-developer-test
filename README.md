@@ -1,6 +1,6 @@
 # Taxually technical test
 
-This solution contains an API endpoint to register a company for a VAT number. Different approaches are required based on the country where the company is based:
+This solution contains an [API endpoint](https://github.com/Taxually/developer-test/blob/main/Taxually.TechnicalTest/Taxually.TechnicalTest/Controllers/VatRegistrationController.cs) to register a company for a VAT number. Different approaches are required based on the country where the company is based:
 
 - UK companies can register via an API
 - French companies must upload a CSV file
