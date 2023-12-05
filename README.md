@@ -16,7 +16,7 @@ We'd also like you to add some tests to show us how you'd test your solution, al
 
 We don't expect you to implement the classes for making HTTP calls and putting messages on queues.
 
-We'd like you to spend around 1 hour on the exercise.
+We'd like you to spend not more than a few hours on the exercise.
 
 To develop and submit your solution please follow these steps:
 
