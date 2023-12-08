@@ -28,7 +28,6 @@ public class VatRegistrationService : IVatRegistrationService
         };
     }
 
-    //THIS VERSION WAS MADE FOR CORRENT TYPE FOR XML SERIALIZATION
     public void ProcessRegistration(VatRegistrationRequest request, VatRegistrationController controller)
     {
         if (_requestStrategies.TryGetValue(request.Country, out var strategy))
