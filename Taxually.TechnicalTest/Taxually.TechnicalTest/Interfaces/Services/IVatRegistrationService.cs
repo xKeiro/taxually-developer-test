@@ -5,5 +5,5 @@ namespace Taxually.TechnicalTest.Interfaces.Services;
 
 public interface IVatRegistrationService
 {
-    void ProcessRegistration(VatRegistrationRequest request);
+    void ProcessRegistration(VatRegistrationRequest request, VatRegistrationController controller);
 }
